@@ -1,0 +1,18 @@
+{
+  "name": "hotelwebsite",
+  "version": "1.0.0",
+  "description": "A node.js website for managing room registion in a hotel for clients.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chai",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "md5": "^2.2.1",
+    "mysql": "^2.15.0",
+    "node-session": "^1.2.1"
+  }
+}
